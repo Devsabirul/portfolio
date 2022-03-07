@@ -1,0 +1,23 @@
+.header_shadow{
+    box-shadow: 1px 1px 4px 1px #cfcfcf;
+}
+.nav_text_color{
+    color: black !important;
+}
+.nav_text_spacing{
+    margin-right: 25px;
+}
+.nav_btn{
+    background-color:#FF3D4F !important ;
+    border: none !important;
+}
+.nav_btn:hover{
+    background-color:#180643 !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .logo-sm{
+        width: 50% !important;
+    }
+}
+

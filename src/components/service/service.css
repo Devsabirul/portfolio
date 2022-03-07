@@ -1,0 +1,16 @@
+.card_header{
+    color: red;
+}
+.card_content{
+    border: 1px solid #ededed;
+    padding: 35px;
+    cursor: pointer;
+    line-height: 30px;
+    position: relative;
+    overflow: hidden;
+    transition: all .5s;
+    border-radius: 15px;
+}
+.card_content:hover{
+    background-color: #efebf8;
+}
